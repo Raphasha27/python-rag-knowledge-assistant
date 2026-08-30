@@ -29,3 +29,10 @@ uvicorn src.main:app --reload
 ## License
 
 MIT License
+
+
+## Live Demo
+- **Cloudflare Pages:** [https://rag-knowledge-assistant.pages.dev](https://rag-knowledge-assistant.pages.dev)
+- **GitHub Pages:** [https://raphasha27.github.io/python-rag-knowledge-assistant](https://raphasha27.github.io/python-rag-knowledge-assistant)
+- **Docker Hub:** [docker pull raphasha27/python-rag-knowledge-assistant](https://hub.docker.com/r/raphasha27/python-rag-knowledge-assistant)
+
